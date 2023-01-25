@@ -19,7 +19,7 @@ f = open(
 secret = json.load(f)
 f.close()
 
-account_to_select = "Bollinger_Trend"
+account_to_select = "bitget_bol_trend"
 production = True
 
 pair = "BTC/USDT:USDT"
